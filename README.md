@@ -1,1 +1,1 @@
-"# RAG" 
+This repository is intended to enhance my skills in Retrieval-Augmented Generation (RAG). In addition to the artificial intelligence algorithm, there is another one with step-by-step processed data, which serves as the foundation for RAG.
